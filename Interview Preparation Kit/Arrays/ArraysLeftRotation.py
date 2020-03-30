@@ -8,7 +8,6 @@ import random
 import re
 import sys
 
-# Complete the rotLeft function below.
 def rotLeft(a, d):
     n=len(a)
     a_c=[0]*n
