@@ -103,4 +103,8 @@ SinglyLinkedListNode* insertNodeAtPosition(SinglyLinkedListNode* head, int data,
     return head;
 
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> master
